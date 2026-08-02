@@ -51,16 +51,16 @@ A CLI tool built with clean architecture principles and packaged for real-world 
 
 ## 🎓 Education
 
-<!-- TODO: Fill in your degree, college name, and years -->
-**[Your Degree]** — [Your College Name] ([Start Year]–[End Year])
+**B.Tech in Computer Science and Engineering**
+MEA Engineering College, Kerala
+Sep 2022 – July 2026 · CGPA: 8/10
 
 ---
 
 ## 🤝 Let's Connect
 
 <p align="left">
-  <!-- TODO: Replace YOUR_USERNAME with your actual LinkedIn handle -->
-  <a href="https://linkedin.com/in/YOUR_USERNAME">
+  <a href="https://www.linkedin.com/in/muhammedshareef-p/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn — Muhammed Shareef P"/>
   </a>
   &nbsp;
